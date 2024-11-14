@@ -132,7 +132,7 @@ This project is unique because it goes beyond traditional machine learning devel
 
  - <b>List of all the ZenML stacks that are opened : </b>`zenml stack list`
 
- - <b>To obtaion detailed information about the active stack in your ZenML setup : </b> `zenml stack describe`
+ - <b>To obtain detailed information about the active stack in your ZenML setup : </b> `zenml stack describe`
 
  - <b>Running the Pipeline : </b>`python run_pipeline.py`
 
