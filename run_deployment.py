@@ -40,7 +40,7 @@ def run_deployment(config: str, min_accuracy: float):
             data_path="D:/GitHub_Repos/MLOps-Project-DevOps-for-ML/data/olist_customers_dataset.csv",  # Path to the dataset
             min_accuracy=min_accuracy,  # Minimum accuracy threshold for deployment
             workers=3,  # Number of workers to use during deployment
-            timeout=60,  # Timeout for the pipeline execution
+            timeout=60,  # Timeout for the pipeline execution : Help prevent  from running excessively long
         )
 
     # If predict is selected, run the inference pipeline to make predictions
