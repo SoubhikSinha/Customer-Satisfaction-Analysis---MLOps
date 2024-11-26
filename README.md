@@ -1,4 +1,4 @@
-# MLOps Project (DevOps for ML)
+# Customer Satisfaction Analysis (MLOps - DevOps for ML)
 
 ### Acknowledgements
 ---
