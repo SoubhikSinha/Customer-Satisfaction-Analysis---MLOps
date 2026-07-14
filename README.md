@@ -1,12 +1,5 @@
 # Customer Satisfaction Analysis (MLOps - DevOps for ML)
 
-### Acknowledgements
----
-I would like to extend my sincere thanks to [freeCodeCamp](https://www.freecodecamp.org/) and [Ayush Singh](https://www.youtube.com/@AyushSinghSh) for their invaluable content and guidance, which helped me build this project. This project wouldn't have been possible without their educational resources. I am also grateful to [Hillary Nyakundi](https://www.freecodecamp.org/news/author/larymak/) for providing an excellent resource ([LINK](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)) on how to write a well-structured README.md file.
-
-<br>
-<br>
-
 ### Introduction to MLOps
 ---
 **MLOps**, short for [Machine Learning Operations](https://aws.amazon.com/what-is/mlops/#:~:text=Machine%20learning%20operations%20(MLOps)%20are,deliver%20value%20to%20your%20customers.), brings the practices of DevOps to the world of machine learning, helping teams build, deploy, and maintain ML models more effectively. By automating repetitive tasks like testing, deployment, and monitoring, MLOps allows data scientists and engineers to focus on improving model accuracy and performance. It makes scaling models easier, keeps them reliable over time, and ensures that they stay relevant by catching issues early—like when a model's accuracy drops or when it starts to drift from real-world data. MLOps bridges the gap between development and production, making sure that the hard work of building models actually makes it into the hands of users smoothly and effectively.
